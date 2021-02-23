@@ -1,7 +1,7 @@
 DEEP NOISE
 A (potentially overdriven) reverb effect that can amplify the audio signal as it's being reflected. This creates a terrifying distortion effect (Make sure you leave on CLAMP!).
 
-Combine this overdrive with an LFO and it gets even better.   
+Combine this overdrive with an LFO and it becomes usable.   
 
 Controls left to right:
 SIZE - Size of the "room" creating the reflection
