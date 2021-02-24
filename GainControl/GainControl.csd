@@ -42,7 +42,7 @@ instr 1
     chnset k(abs(a1*kGain)), "out R"
 
     ; Calculate gain dB
-    kGaindB = 20*log(kGain)
+    kGaindB = 20*log10(kGain)
     SgaindB init ""
     SgaindB sprintfk "text(%d dB)", kGaindB
     chnset SgaindB, "gain dB"
